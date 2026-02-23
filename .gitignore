@@ -1,0 +1,8 @@
+# Игнорируем тяжелые папки и временные файлы
+AI/
+mods/
+config/
+*.jar
+*.jar.temp
+*.snbt.bak
+__pycache__/
